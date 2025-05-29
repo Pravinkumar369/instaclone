@@ -1,4 +1,6 @@
-for starting bthe project in react vite
+for starting the project in react vite
 
 npm instal (or) npm i
- Uploading "Instagram - Google Chrome 2025-05-29 19-43-37.mp4"... 
+
+https://github.com/user-attachments/assets/b25ada19-fe08-4a9f-86a2-99b86f8cdd08
+
