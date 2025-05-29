@@ -1,0 +1,79 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "names": "LOVELY",
+      "username": "john_doe",
+      "profilePicture": "./src/assets/profile1.webp",
+      "image": "./src/assets/post1.jpg",
+      "caption": "Beautiful sunset!",
+      "likes": 120,
+      "comments": [
+        {
+          "id": 1,
+          "username": "jane_doe",
+          "comment": "Wow, stunning!"
+        },
+        {
+          "id": 2,
+          "username": "bob_smith",
+          "comment": "Love it!"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "names": "SUNRAISE",
+      "username": "jane_doe",
+      "profilePicture": "./src/assets/profile2.webp",
+      "image": "./src/assets/post2.jpg",
+      "caption": "Happy moments!",
+      "likes": 90,
+      "comments": [
+        {
+          "id": 1,
+          "username": "john_doe",
+          "comment": "Awesome!"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "names": "TRICKY",
+      "username": "meta_ai",
+      "profilePicture": "./src/assets/profile3.jpg",
+      "image": "./src/assets/profile3.webp",
+      "caption": "Exploring new places!",
+      "likes": 200,
+      "comments": [
+        {
+          "id": 1,
+          "username": "john_doe",
+          "comment": "Awesome!"
+        }
+      ]
+    }
+  ],
+  "user": [
+    {
+      "id": 1,
+      "username": "jane_doe",
+      "profilePicture": "./src/assets/profile1.webp"
+    },
+    {
+      "id": 2,
+      "username": "jane_doe",
+      "profilePicture": "./src/assets/profile2.webp"
+    },
+    {
+      "id": 3,
+      "username": "meta_ai",
+      "profilePicture": "./src/assets/profile3.jpg"
+    }
+  ],
+  "profile": {
+    "username": "crazy",
+    "profilePicture": "./src/assets/profile1.webp",
+    "name": "CRAZY"
+  }
+}
